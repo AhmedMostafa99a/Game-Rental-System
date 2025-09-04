@@ -62,3 +62,8 @@ This project implements the following main features:
 - **Search Filters** (by year, vendor, category)  
 - **Rental History** tracking
 - **generate report** 
+---
+## 🚀 Quick Start
+
+1. **Clone the repo**
+  [clone repo ](https://github.com/AhmedMostafa99a/Game-Rental-System.git)
