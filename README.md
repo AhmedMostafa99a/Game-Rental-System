@@ -1,1 +1,2 @@
-# Game-Rental-System
+# Games-Rental-System
+Database assignment 
